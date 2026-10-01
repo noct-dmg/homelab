@@ -1,0 +1,13 @@
+# Cluster secrets - never commit
+talosconfig
+controlplane.yaml
+worker.yaml
+secrets.yaml
+kubeconfig
+*.kubeconfig
+*.key
+*.pem
+.env
+# Backups
+*.tgz
+*.tar.gz

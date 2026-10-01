@@ -1,0 +1,1 @@
+- [ ] Verify fantasia image exists at ghcr.io/noct-dmg/fantasia-minecraft (same digest), then update image path from bluebirdot → noct-dmg. Old path only works while image is cached on Veronica.
